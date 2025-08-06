@@ -45,7 +45,7 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/hound
+git clone https://github.com/trh4ckn0n/hound
 cd hound
 bash hound.sh
 ```
@@ -55,6 +55,6 @@ Version: 0.2: Remove Ngrok and update cloudflared tunnel
 ### Video Demo
 [![Hound Demo](https://img.youtube.com/vi/IiJRyVmITgI/0.jpg)](https://www.youtube.com/watch?v=IiJRyVmITgI)
 
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+### For More Video subcribe <a href="https://youtube.com/playlist?list=PL6mtZRz_Codv01rs9r9OdgKKVC-ta5BBK&feature=shared">Trhacknon YouTube Channel from techchipnet</a>
 <p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 credit - Chatbot template : Masud Rana
